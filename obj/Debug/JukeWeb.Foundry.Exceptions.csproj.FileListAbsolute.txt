@@ -1,0 +1,9 @@
+C:\Projects\Applications\JukeWeb\JukeWeb.Foundry\Development\Source\JukeWeb.Foundry.Exceptions\bin\Debug\JukeWeb.Foundry.Exceptions.dll
+C:\Projects\Applications\JukeWeb\JukeWeb.Foundry\Development\Source\JukeWeb.Foundry.Exceptions\bin\Debug\JukeWeb.Foundry.Exceptions.pdb
+C:\Projects\Applications\JukeWeb\JukeWeb.Foundry\Development\Source\JukeWeb.Foundry.Exceptions\obj\Debug\JukeWeb.Foundry.Exceptions.dll
+C:\Projects\Applications\JukeWeb\JukeWeb.Foundry\Development\Source\JukeWeb.Foundry.Exceptions\obj\Debug\JukeWeb.Foundry.Exceptions.pdb
+C:\Projects\Applications\JukeWeb\JukeWeb.Foundry\Development\Source\JukeWeb.Foundry.Exceptions\bin\Debug\JukeWeb.Foundry.Exceptions.dll.config
+C:\Projects\Applications\JukeWeb\JukeWeb.Foundry\Development\Source\JukeWeb.Foundry.Exceptions\bin\Debug\EntityFramework.dll
+C:\Projects\Applications\JukeWeb\JukeWeb.Foundry\Development\Source\JukeWeb.Foundry.Exceptions\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Applications\JukeWeb\JukeWeb.Foundry\Development\Source\JukeWeb.Foundry.Exceptions\bin\Debug\EntityFramework.xml
+C:\Projects\Applications\JukeWeb\JukeWeb.Foundry\Development\Source\JukeWeb.Foundry.Exceptions\bin\Debug\EntityFramework.SqlServer.xml
